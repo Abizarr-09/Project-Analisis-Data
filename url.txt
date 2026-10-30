@@ -1,1 +1,1 @@
-https://dashboard-airquality-beijing.streamlit.app
+https://dashboard-airquality-beijing.streamlit.app/

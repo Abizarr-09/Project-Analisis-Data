@@ -1,6 +1,6 @@
 # Air Quality Beijing Dashboard ✨
 
-Dashboard analisis kualitas udara untuk 12 stasiun pemantauan di Beijing, China (periode 2013 s.d. 2017). Proyek ini merupakan submission akhir untuk program Dicoding Academy.
+Dashboard analisis kualitas udara untuk 12 stasiun pemantauan di Beijing, China (periode 2013 s.d. 2017).
 
 ---
 
@@ -29,7 +29,7 @@ streamlit run dashboard/dashboard.py
 
 ## Tautan Dashboard (Streamlit Cloud)
 Aplikasi dashboard yang telah dideploy dapat diakses pada tautan berikut (juga tercantum pada `url.txt`):
-> **URL**: [https://dashboard-airquality-beijing.streamlit.app](https://dashboard-airquality-beijing.streamlit.app)
+> **URL**: [https://dashboard-airquality-beijing.streamlit.app/](hhttps://dashboard-airquality-beijing.streamlit.app/)
 
 ---
 
